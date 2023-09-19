@@ -25,7 +25,8 @@ dotnet build
 
 dotnet run
 
-Your API should now be running locally. By default, it will be available at http://localhost:8888/swagger/index.html .
+Your API should now be running locally. By default, it will be available at 
+http://localhost:8888/swagger/index.html 
 
 
 
